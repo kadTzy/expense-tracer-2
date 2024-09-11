@@ -1,0 +1,15 @@
+
+
+
+
+.chartBarFill{
+    background-color: blueviolet;
+    width: 100%;
+    transition: all 0.3s ease-out;
+}
+
+.chartBarLabel{
+    font-weight: bold;
+    font-size: 0.8rem;
+    text-align: center;
+}

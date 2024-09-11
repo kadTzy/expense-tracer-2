@@ -1,0 +1,13 @@
+.container{
+    width: 94%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: white;
+}
+.container > select{
+    width: 130px;
+    padding: 10px;
+    font-size: 17px;
+    outline: none;
+}
